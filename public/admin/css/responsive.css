@@ -1,0 +1,202 @@
+@media screen and (max-width: 768px) {
+    .__custom__mobile__padding__right__zero{
+        padding-right: 0px !important;
+    }
+    .__custom__mobile__padding__left__zero{
+        padding-left: 0px !important;
+    }
+    .v-main__wrap {
+        padding: 10px 10px !important;
+    }
+
+    /* form title */
+    .form-top-title {
+        margin: 5px 0px 5px;
+    }
+
+    .form-top-title h3 {
+        font-size: 14px !important;
+        line-height: 14px !important;
+    }
+    /* form title */
+
+    .language_section_wrapper {
+        display: none;
+    }
+
+    .header_profile_menu_link {
+        min-height: 10px !important;
+        padding: 5px 10px !important;
+    }
+
+    .header_profile_language {
+        display: block !important;
+    }
+
+    .form-header {
+        height: 155px !important;
+    }
+    .auth-phone-width-text {
+        width: 100%;
+    }
+    .auth-phone-width-img {
+        display: none;
+    }
+
+    .data_list_header_action_bar_large {
+        display: none;
+    }
+
+    .data_list_header_action_bar_small {
+        display: block !important;
+    }
+
+    .data_list_header_action_bar_small .child {
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        height: 100%;
+        width: 100%;
+    }
+
+    ul.profile_slide_tabs {
+        padding: 0px 10px !important;
+    }
+
+    .profile__form__cart {
+        padding: 10px 20px;
+    }
+
+    .language_section_wrapper {
+        display: none;
+    }
+
+    .header_profile_menu_link {
+        min-height: 10px !important;
+        padding: 5px 10px !important;
+    }
+
+    .header_profile_language {
+        display: block !important;
+    }
+
+    .data_list_header_action_bar_large {
+        display: none;
+    }
+
+    /* form title */
+    .form-top-title {
+        margin: 5px 0px 5px;
+    }
+
+    .form-top-title h3 {
+        font-size: 14px !important;
+        line-height: 14px !important;
+    }
+    /* form title */
+
+    .v-main__wrap {
+        padding: 10px 10px;
+    }
+
+    .data_list_header_action_bar_small {
+        display: block !important;
+    }
+
+    .data_list_header_action_bar_small .child {
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        height: 100%;
+        width: 100%;
+    }
+
+    .form-header {
+        height: 155px !important;
+    }
+    .auth-phone-width-text {
+        width: 100%;
+    }
+    .auth-phone-width-img {
+        display: none;
+    }
+
+    ul.profile_slide_tabs {
+        padding: 0px 10px !important;
+    }
+
+    .profile__form__cart {
+        padding: 10px 20px;
+    }
+
+    .preview_image {
+        padding: 0px;
+    }
+    .custom_header_top_company_content {
+        display: none;
+    }
+    /* .custom_header_top_language_content {
+        display: none;
+    } */
+    /* .custom_header_top_auth_content {
+        border-left: none;
+        padding-left: 0px;
+    } */
+    .user-profile {
+        text-align: right;
+        margin-top: 3px;
+    }
+    .filter_by_date {
+        padding: 10px 5px;
+        font-size: 14px;
+    }
+
+    button.header__list__button {
+        line-height: 41px;
+    }
+
+    .custom_table_responsive_one {
+        margin-top: 0px !important;
+    }
+    .custom_form_body_one {
+        margin-top: 0px !important;
+    }
+
+    .custom_padding_control {
+        padding-bottom: 0 !important;
+        padding-top: 0 !important;
+        display: block;
+        overflow: hidden;
+    }
+    .form-body {
+        padding: 10px 20px;
+    }
+    /* .custom_padding_top_control{
+        padding-top: 10px;
+        padding_bottom
+    } */
+    .__custom__padding_top_768 {
+        padding-top: 10px;
+    }
+    .__custom__form_title span.text-h5 {
+        font-size: 18px !important;
+    }
+    .custom_quotation_list_768 {
+        padding-top: 0px !important;
+    }
+
+    .upload_img_container {
+        width: 80px !important;
+        height: 80px !important;
+    }
+    .upload_img_container > img {
+        width: 70px !important;
+        height: 70px !important;
+    }
+
+    @media screen and (max-width: 450px) {
+        /* .custom_company_language_auth_table_cell {
+            justify-content: space-between;
+        } */
+    }
+}

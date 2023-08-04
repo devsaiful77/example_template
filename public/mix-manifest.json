@@ -1,0 +1,5 @@
+{
+    "/js/admin.js": "/js/admin.js",
+    "/chunks/admin/admin_login.js": "/chunks/admin/admin_login.js",
+    "/chunks/admin/admin_dashboard.js": "/chunks/admin/admin_dashboard.js"
+}
